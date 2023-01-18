@@ -1,0 +1,7 @@
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.csproj.AssemblyReference.cache
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.AssemblyInfoInputs.cache
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.AssemblyInfo.cs
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.csproj.CoreCompileInputs.cache
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp840g5\source\repos\DotNetCompanyEmployeee\DotNetCompanyEmployeee\obj\Release\net6.0\DotNetCompanyEmployeee.MvcApplicationPartsAssemblyInfo.cache
